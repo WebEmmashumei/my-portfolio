@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+header{
+    width: 1024px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Neucha', cursive;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    color: rgb(138, 146, 255);
+}
+
+main{
+    width: 1024px;
+    margin: auto;
+    font-family: 'Neucha', cursive;
+}
+
+.briefly{
+    background-color: rgb(138, 146, 255);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.call{
+    color: rgb(138, 146, 255);
+    font-size: 40px;
+}
+
+.container{
+    margin: 40px 0px;
+    display: flex;
+}
+
+.hello{
+    font-weight: 100;
+    margin: 30px 0px 0px 0px;
+    font-family: 'Neucha', cursive;
+    font-size: 20px;
+}
+
+.button{
+    display: flex;
+}
+
+.button1{
+    background-color: rgb(138, 146, 255);
+    padding: 15px 40px;
+    color: aliceblue;
+    border-radius: 10px;
+    font-weight: 600;
+    margin: 0px 30px 0px 0px;
+}
+
+.button2{
+    padding: 15px 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-weight: 600;
+    margin: 0px 30px 0px 0px;
+}
+
+.imgbig{
+   background-color: rgb(138, 146, 255); 
+   border-radius: 10px;
+   margin: auto;
+}
+
+.img{
+    background-image: url("туту.png");
+    width: 400px;
+    height: 300px;
+    background-size: contain;
+    margin: -30px 0px 0px 30px;
+    background-repeat: no-repeat;
+}
+
+.about{
+    font-size: 35px;
+    color: rgb(50, 140, 64);
+}
+
+.iam{
+    width: 1024px;
+    text-align: center;
+}
+
+.Who_am_I{
+    color:rgb(71, 71, 71);
+}
+
+.fa-brands{
+    color: rgb(50, 140, 64);
+    font-size: 20px;
+}
