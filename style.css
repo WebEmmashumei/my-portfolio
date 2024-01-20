@@ -108,3 +108,7 @@ main{
     color: rgb(50, 140, 64);
     font-size: 20px;
 }
+
+.footer{
+    text-align: center;
+}
